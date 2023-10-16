@@ -1,0 +1,135 @@
+@media only screen and (min-width: 320px)
+{
+    .qr{ 
+        position: absolute !important;
+        left: 40px !important;
+        top: 70px !important;
+        width:45px !important;
+    }
+    .barcode{ 
+        position: absolute !important;
+        left: 26px !important;
+        bottom: 25px !important;
+        width: 87px !important;
+        height: 35px !important;
+    }
+}
+
+@media only screen and (min-width: 375px)
+{
+    .qr{ 
+        position: absolute !important;
+        left: 45px !important;
+        top: 75px !important;
+        width:55px !important;
+    }
+    .barcode{ 
+        position: absolute !important;
+        left: 26px !important;
+        bottom: 25px !important;
+        width: 108px !important;
+        height: 40px !important;
+    }
+}
+
+@media only screen and (min-width: 400px)
+{
+    .qr{ 
+        position: absolute !important;
+        left: 45px !important;
+        top: 75px !important;
+        width:55px !important;
+    }
+    .barcode{ 
+        position: absolute !important;
+        left: 30px !important;
+        bottom: 25px !important;
+        width: 130px !important;
+        height: 50px !important;
+    }
+}
+
+@media only screen and (min-width: 425px)
+{
+    .qr{ 
+        position: absolute !important;
+        left: 50px !important;
+        top: 80px !important;
+        width:60px !important;
+    }
+    .barcode{ 
+        position: absolute !important;
+        left: 30px !important;
+        bottom: 25px !important;
+        width: 130px !important;
+        height: 50px !important;
+    }
+}
+
+@media only screen and (min-width: 768px)
+{
+    .qr{ 
+        position: absolute !important;
+        left: 50px !important;
+        top: 100px !important;
+        width:100px !important;
+    }
+    .barcode{ 
+        position: absolute !important;
+        left: 34px !important;
+        bottom: 25px !important;
+        width: 160px !important;
+        height: 60px !important;
+    }
+}
+
+@media only screen and (min-width: 1024px)
+{
+    .qr{ 
+        position: absolute !important;
+        left: 50px !important;
+        top: 100px !important;
+        width:100px !important;
+    }
+    .barcode{ 
+        position: absolute !important;
+        left: 34px !important;
+        bottom: 25px !important;
+        width: 160px !important;
+        height: 60px !important;
+    }
+}
+
+@media only screen and (min-width: 1440px)
+{
+    .qr{ 
+        position: absolute !important;
+        left: 50px !important;
+        top: 100px !important;
+        width:100px !important;
+    }
+    .barcode{ 
+        position: absolute !important;
+        left: 34px !important;
+        bottom: 25px !important;
+        width: 160px !important;
+        height: 60px !important;
+    }
+}
+
+@media only screen and (min-width: 2560px)
+{
+    .qr{ 
+        position: absolute !important;
+        left: 50px !important;
+        top: 100px !important;
+        width:100px !important;
+    }
+    .barcode{ 
+        position: absolute !important;
+        left: 34px !important;
+        bottom: 25px !important;
+        width:160px !important;
+        height:60px !important;
+    }
+}
